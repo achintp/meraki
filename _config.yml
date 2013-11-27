@@ -18,4 +18,4 @@ author_about: http://www.sanger.dk/
 markdown: redcarpet
 pygments: true
 
-permalink: /meraki/:year/:month/:day/:title/
+permalink: /meraki/:date
