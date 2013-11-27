@@ -16,3 +16,5 @@ author_about: http://www.sanger.dk/
 #rendering settings
 markdown: redcarpet
 pygments: true
+
+permalink: /meraki/:year/:month/:day/:title/
