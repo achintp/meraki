@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rollig out version 1"
+title: "Rolling out version 1"
 data: 2013-11-26
 categories: General
 ---
