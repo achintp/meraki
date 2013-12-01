@@ -18,3 +18,5 @@ author_about: http://www.sanger.dk/
 markdown: redcarpet
 pygments: true
 
+permalink: /meraki/:categories/:year/:month/:day/:title
+
