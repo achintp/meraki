@@ -1,5 +1,6 @@
 name: Achintya Prakash
 description: Blog - Achintya Prakash
+url: achintp.github.io/meraki
 
 
 #Author info
@@ -16,3 +17,6 @@ author_about: http://www.sanger.dk/
 #rendering settings
 markdown: redcarpet
 pygments: true
+
+permalink: /meraki/:categories/:year/:month/:day/:title
+
