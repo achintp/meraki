@@ -19,6 +19,6 @@ markdown: redcarpet
 pygments: true
 
 relative_permalinks: false
-permalink: /:year/:month/:day/:title
+permalink: meraki/:year/:month/:day/:title
 
 
