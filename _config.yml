@@ -1,6 +1,6 @@
 name: Achintya Prakash
 description: Blog - Achintya Prakash
-baseurl: /meraki
+baseurl: "http://achintp.github.io/meraki"
 
 
 #Author info
@@ -19,6 +19,6 @@ markdown: kramdown
 pygments: true
 
 relative_permalinks: false
-permalink: :year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
 
