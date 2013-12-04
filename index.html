@@ -7,7 +7,7 @@ title: Meraki
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-      	<h2><a href="{{ post.url }}">{{site.baseurl}}{{post.title}}</a></h2>
+      	<h2><a href="{{site.baseurl}}{{ post.url }}">{{post.title}}</a></h2>
       	<div class="date">
       		<span class="glyphicon glyphicon-calendar"></span> {{ post.date | date_to_string}}
       	</div>
